@@ -1,0 +1,18 @@
+#content {
+    width: 150px;
+    height: 100px;
+    margin: 2000px;
+}
+
+input {
+        width: 80px;
+        align-self: center;
+}
+#message {
+    width: 200px;
+}
+#nbs {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(162, 169, 167, 0.708);
+}
